@@ -1,0 +1,15 @@
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
+D:\Udemy Learn .Net\demo\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll
